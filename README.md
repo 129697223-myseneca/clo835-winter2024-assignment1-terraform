@@ -16,6 +16,6 @@
 
 # Destroy resources
 
-    ```bash
-        terraform destroy -auto-approve
-    ```
+```bash
+    terraform destroy -auto-approve
+```
