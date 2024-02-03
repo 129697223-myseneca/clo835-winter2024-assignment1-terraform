@@ -6,7 +6,7 @@
 
 ssh-keygen -t rsa -f clo835-assignment1-key
 
-2. Apply Terraform code
+3. Apply Terraform code
 
 terraform init
 terraform apply -auto-approve
